@@ -131,11 +131,11 @@ body {
     
     .cabecalho{
         padding: 5%;
-        gap: 5px;
     }
 
     .cabecalho__menu{
     justify-content: center;
+    gap: 20px;
     }
     
     .apresentacao{
